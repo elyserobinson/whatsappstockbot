@@ -22,7 +22,7 @@ This is a working WhatsApp conversational chatbot. This conversational chatbot u
 5. [NGROK](https://ngrok.com/) to create a tunnel to the app from an HTTPS public endpoint
 
 ## Python Dependencies Installed
-`pip install certifi
+`pip install certifi`
 `pip install chardet`
 `pip install click`
 `pip install Flask`
