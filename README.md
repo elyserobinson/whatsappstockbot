@@ -44,9 +44,9 @@ This is a working WhatsApp conversational chatbot. This conversational chatbot u
 3. Set-ExecutionPolicy Unrestricted
 4. bot\scripts\activate
 5. SET FLASK_APP=app.py
-6. $env:TWILIO_ACCOUNT="AC3663204b0e809ebb534945441b8bf9b0"
-7. $env:TWILIO_TOKEN="f62521268e6a276ce41c26ef4407374a"
-8. $env:MARKETSTACK_KEY="125354d3c9a12feb5dac5b0674c2e389"
+6. $env:TWILIO_ACCOUNT="-----"
+7. $env:TWILIO_TOKEN="-----"
+8. $env:MARKETSTACK_KEY="-----"
 9. Flask run
 
 ## Creator
