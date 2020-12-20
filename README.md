@@ -52,7 +52,7 @@ pip install Werkzeug
 9. Flask run
 
 ## Demo of Bot
-<iframe src="https://player.vimeo.com/video/484215201" width="640" height="1388" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+[![WhatsApp Stock Market Bot Demo](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://player.vimeo.com/video/484215201 "WhatsApp Stock Market Bot")
 
 ## Creator
 Programmed by [Elyse Y. Robinson](https://newsin.it)
