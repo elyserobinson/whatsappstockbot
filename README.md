@@ -51,5 +51,8 @@ pip install Werkzeug
 8. $env:MARKETSTACK_KEY="-----"
 9. Flask run
 
+## Demo of Bot
+<iframe src="https://player.vimeo.com/video/484215201" width="640" height="1388" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ## Creator
 Programmed by [Elyse Y. Robinson](https://newsin.it)
