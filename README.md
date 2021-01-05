@@ -40,7 +40,7 @@ pip install urllib3
 pip install Werkzeug
 ```
 
-## Commands for Terminal
+## Commands for Windows Terminal
 1. cd ~/Desktop/bot_stock/bot
 2. virtualenv bot
 3. Set-ExecutionPolicy Unrestricted
